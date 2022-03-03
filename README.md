@@ -1,2 +1,2 @@
-# FrontEnd-Prac-01Intro
+# FrontEnd-01Intro-katas
 Practicas de FrontEnd Modulo 01 Intro
